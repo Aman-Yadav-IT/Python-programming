@@ -11,4 +11,3 @@ print("The value of ", a, "%" , b, "is:", a%b)
 
 
 
-
