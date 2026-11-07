@@ -22,3 +22,6 @@ a = 5
 b = 12
 c = float(a) + float(b) # here we are converting the integer into float using float() function
 print(c) # output will be 17.0
+a=1.3
+b=2
+print(int(a)+int(b))
